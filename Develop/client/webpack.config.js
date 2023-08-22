@@ -30,8 +30,6 @@ module.exports = () => {
       }),
 
       new WebpackPwaManifest({
-        fingerprints: false,
-        inject: true,
         name: 'Text Editing',
         short_name: 'Text Editor',
         description: 'Allows you to create and edit text - works offline!',

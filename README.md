@@ -1,6 +1,6 @@
 # Text Editor
 
-## Table of Contents
+[Description](#description) || [Installation](#installation) || [Example](#example) 
 
 ## Description
 

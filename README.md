@@ -12,6 +12,7 @@ The user is expected to download the application by clicking `Install` and after
 
 ## Example 
 
+You may view a video example [here](https://www.youtube.com/watch?v=SX9zWKv1pns&ab_channel=Nato)
 
 Example of how your Manifest should look
 
